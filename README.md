@@ -23,7 +23,7 @@
   <a href="https://github.com/harishdubeyCS" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="harishdubeycs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -61,35 +61,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" width="25" alt="VSCode"/><br>
   <img src="https://skillicons.dev/icons?i=idea" width="25" alt="IntelliJ IDEA"/><br>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎨 Random Palette Generator
-* **Tech:** HTML • CSS • JavaScript
-* **Description:** An interactive tool to generate beautiful and vibrant random color palettes instantly.
-
-### 🎓 Student Management System
-* **Tech:** Core Java • OOPs
-* **Description:** A robust console-based application designed to manage student records efficiently using Object-Oriented programming.
-
-### 🏦 Bank Management System `(Coming Soon)`
-* **Tech:** Java • JDBC • MySQL
-* **Description:** A full-stack desktop application to handle banking operations securely.
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=harishdubeyCS&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishdubeyCS&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="130" src="https://streak-stats.demolab.com?user=harishdubeyCS&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
